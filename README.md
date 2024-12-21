@@ -13,11 +13,6 @@ Welcome to my GitHub profile!
 - **AI/ML:** TensorFlow, chatbot development, dataset training  
 - **Others:** Discord Bot Development 
 
-### 🌟 Highlighted Projects  
-- 🎮 [Cosmic Conquest: Battle for the Void](https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void): A sci-fi game with deep lore and challenging gameplay  
-- 🎮 Underground Heist: A dystopian hyper-casual game featuring high-tech grappling mechanics  
-- 🤖 Chatbots: Implementing NLP with TensorFlow and Keras  
-
 ### 📝 Latest Updates  
 - **Currently:**
   - Refining my horror game involving cursed items and hallucinations
