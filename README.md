@@ -3,9 +3,8 @@ Welcome to my GitHub profile!
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on many projects of different domains
-- 🌱 I’m learning **advanced programming concepts, AI/ML, and Android App Development.**  
+- 🌱 I’m learning **advanced programming concepts, AI/ML, Android App Development and Full Stack Development.**  
 - 👨‍💻 I enjoy **game development, automation, and connecting across devices.**  
-- ✨ Fun fact: I like solving challenging problems, even in languages like **Malbolge**!  
 
 ### 🛠️ Technologies & Tools  
 - **Programming:** Python, Flutter, C# 
@@ -22,6 +21,7 @@ Welcome to my GitHub profile!
 - **Currently:**
   - Refining my horror game involving cursed items and hallucinations
   - Learning Flutter
+  - Learning Django
 - **Future Plans:**
   - Experimenting with new features for *Cosmic Conquest* sequel
   - Make more AI projects
