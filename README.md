@@ -20,8 +20,8 @@ Welcome to my GitHub profile!
 ### 📝 Latest Updates  
 - **Currently:**
   - Refining my horror game involving cursed items and hallucinations
-  - Learning Flutter
-  - Learning Django
+  - Learning OpenCV
+  - Learning foundations of AI
 - **Future Plans:**
   - Experimenting with new features for *Cosmic Conquest* sequel
   - Make more AI projects
