@@ -2,9 +2,9 @@
 Welcome to my GitHub profile!  
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on many projects of different domains
-- 🌱 I’m learning **advanced programming concepts, AI/ML, Android App Development and Full Stack Development.**  
-- 👨‍💻 I enjoy **game development, automation, and connecting across devices.**  
+- I’m currently working on many projects of different domains
+- I’m learning **advanced programming concepts, AI/ML, Android App Development and Full Stack Development.**  
+- I enjoy **game development, automation, and connecting across devices.**  
 
 ### 🛠️ Technologies & Tools  
 - **Programming:** Python, Flutter, C# 
@@ -14,13 +14,11 @@ Welcome to my GitHub profile!
 
 ### 🌟 Highlighted Projects  
 - 🎮 [Cosmic Conquest: Battle for the Void](https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void): A sci-fi game with deep lore and challenging gameplay  
-- 🎮 Underground Heist: A dystopian hyper-casual game featuring high-tech grappling mechanics  
-- 🤖 Chatbots: Implementing NLP with TensorFlow and Keras  
+- 🎮 Underground Heist: A dystopian hyper-casual game featuring high-tech grappling mechanics 
 
 ### 📝 Latest Updates  
 - **Currently:**
   - Refining my horror game involving cursed items and hallucinations
-  - Learning OpenCV
   - Learning foundations of AI
 - **Future Plans:**
   - Experimenting with new features for *Cosmic Conquest* sequel
