@@ -3,14 +3,14 @@ Welcome to my GitHub profile!
 
 ### 🚀 About Me  
 - I’m currently working on many projects of different domains
-- I’m learning **advanced programming concepts, AI/ML, Android App Development and Full Stack Development.**  
+- I’m learning **advanced programming concepts, AI/ML, and Full Stack Development.**  
 - I enjoy **game development, automation, and connecting across devices.**  
 
 ### 🛠️ Technologies & Tools  
-- **Programming:** Python, Flutter, C#, React, HTML.
+- **Programming:** Python, C#, Angular, HTML.
 - **Game Development:** Unity, DaVinci Resolve (for trailers), particle systems  
-- **AI/ML:** TensorFlow, Pandas, Numpy, Matplotlib, OpenCV, etc.
-- **Others:** Discord Bot Development
+- **AI/ML:** TensorFlow, Pytorch, Pandas, Numpy, Matplotlib, OpenCV, etc.
+- **Others:** Git, Docker, Discord Bot Development
 
 ### 🌟 Highlighted Projects  
 - 🎮 [Cosmic Conquest: Battle for the Void](https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void): A sci-fi game with deep lore and challenging gameplay  
