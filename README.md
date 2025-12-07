@@ -7,19 +7,21 @@ Welcome to my GitHub profile!
 - I enjoy **game development, automation, and connecting across devices.**  
 
 ### 🛠️ Technologies & Tools  
-- **Programming:** Python, C#, Angular, HTML.
+- **Programming:** Python, C#, C++, Angular, HTML.
 - **Game Development:** Unity, DaVinci Resolve (for trailers), particle systems  
 - **AI/ML:** TensorFlow, Pytorch, Pandas, Numpy, Matplotlib, OpenCV, etc.
-- **Others:** Git, Docker, Discord Bot Development
+- **Others:** Git, Docker, Curl, Discord Bot Development
 
 ### 🌟 Highlighted Projects  
-- 🎮 [Cosmic Conquest: Battle for the Void](https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void): A sci-fi game with deep lore and challenging gameplay  
-- 🎮 Underground Heist: A dystopian hyper-casual game featuring high-tech grappling mechanics 
+- [Cosmic Conquest: Battle for the Void](https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void): A sci-fi game with deep lore and challenging gameplay  
+- Underground Heist: A dystopian hyper-casual game featuring high-tech grappling mechanics
+- Digit Recognizer: A web app having CNN based model as backend
 
 ### 📝 Latest Updates  
 - **Currently:**
   - Refining my horror game involving cursed items and hallucinations
   - Learning foundations of AI
+  - Learning ML Systems
 - **Future Plans:**
   - Experimenting with new features for *Cosmic Conquest* sequel
   - Make more AI projects
