@@ -28,8 +28,8 @@ Welcome to my GitHub profile!
   - Much more!
 
 ### 📈 Stats & More  
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+![Stats](./profile/stats.svg)     
+![Top Languages](./profile/top-langs.svg)   
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
