@@ -16,15 +16,14 @@ Welcome to my GitHub profile!
 - [Cosmic Conquest: Battle for the Void](https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void): A sci-fi game with deep lore and challenging gameplay  
 - Underground Heist: A dystopian hyper-casual game featuring high-tech grappling mechanics
 - Digit Recognizer: A web app having CNN based model as backend
+- Neural Network from Scratch: Just what the name says, in two languages though! Python and C++
 
 ### 📝 Latest Updates  
 - **Currently:**
-  - Refining my horror game involving cursed items and hallucinations
   - Learning foundations of AI
-  - Learning ML Systems
 - **Future Plans:**
-  - Experimenting with new features for *Cosmic Conquest* sequel
-  - Make more AI projects
+  - Learn DSA
+  - Make more ML projects
   - Use cross-domain knowledge to make something innovative
   - Much more!
 
