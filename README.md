@@ -2,12 +2,12 @@
 Welcome to my GitHub profile!  
 
 ### 🚀 About Me  
-- I’m currently working on many projects of different domains
-- I’m learning **advanced programming concepts, AI/ML, and Full Stack Development.**  
+- I’ve worked on many projects of different domains
+- I’m learning **Practical Machine learning and Pure Maths behind it.**  
 - I enjoy **game development, automation, and connecting across devices.**  
 
 ### 🛠️ Technologies & Tools  
-- **Programming:** Python, C#, C++, Angular, HTML.
+- **Programming:** Python, C++, Angular, HTML, C#.
 - **Game Development:** Unity, DaVinci Resolve (for trailers), particle systems  
 - **AI/ML:** TensorFlow, Pytorch, Pandas, Numpy, Matplotlib, OpenCV, etc.
 - **Others:** Git, Docker, Curl, Discord Bot Development
@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 
 ### 📝 Latest Updates  
 - **Currently:**
-  - Learning foundations of AI
+  - Learning foundations of AI & NLP
 - **Future Plans:**
   - Learn DSA
   - Make more ML projects
