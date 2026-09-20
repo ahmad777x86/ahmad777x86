@@ -14,8 +14,8 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **CS Undergraduate** learning **Machine Learning & the Pure Maths** behind it[cite: 1].
-- 🛠️ Building deep learning architectures, custom GPU kernels (Triton), and low-level systems in C++ & Python[cite: 1].
+- 🎓 **CS Undergraduate** learning **Machine Learning & the Pure Maths** behind it.
+- 🛠️ Building deep learning architectures, custom GPU kernels (Triton), and low-level systems in C++ & Python.
 - 📝 Organizing structured knowledge graphs and study notes in **Obsidian**.
 
 ---
@@ -65,11 +65,11 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 📐 **Neural Network from Scratch** | C++, Python | Native forward/backward propagation & gradient descent without high-level ML frameworks[cite: 1]. |
-| 🧠 **[Simple MNIST Recognizer](https://huggingface.co/spaces/ahmad-777/MNIST-Simplest)** | PyTorch, Gradio | A deployed deep learning model[cite: 1]. |
+| 📐 **Neural Network from Scratch** | C++, Python | Native forward/backward propagation & gradient descent without high-level ML frameworks. |
+| 🧠 **[Simple MNIST Recognizer](https://huggingface.co/spaces/ahmad-777/MNIST-Simplest)** | PyTorch, Gradio | A deployed deep learning model. |
 | 🏥 **MediCore Hospital Management** | C++, Raylib | Object-oriented institutional system built with modular graphics rendering. |
-| 🌌 **[Cosmic Conquest: Battle for the Void](https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void)** | Unity, C# | Sci-fi 2D game featuring deep lore and challenging mechanics[cite: 1]. |
-| 🕹️ **Underground Heist** | Unity, C# | Dystopian hyper-casual game featuring high-tech grappling mechanics[cite: 1]. |
+| 🌌 **[Cosmic Conquest: Battle for the Void](https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void)** | Unity, C# | Sci-fi 2D game featuring deep lore and challenging mechanics. |
+| 🕹️ **Underground Heist** | Unity, C# | Dystopian hyper-casual game featuring high-tech grappling mechanics. |
 
 ---
 
