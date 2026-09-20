@@ -2,10 +2,10 @@
 
   <h1>Hi there, I'm Ahmad 👋</h1>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vcenter=true&width=550&lines=CS+Undergraduate+%40+FAST;AI%2FML+%26+Pure+Mathematics+Enthusiast;Game+Dev+%26+Low-Level+Systems+Dev;Building+Deep+Learning+Models+from+Scratch)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vcenter=true&width=550&lines=AI%2FML+%26+Pure+Mathematics+Enthusiast;Game+Dev+%26+Low-Level+Systems+Dev;Building+Deep+Learning+Models+from+Scratch)
 
   <p>
-    <a href="https://github.com/ahmad-777"><img src="https://img.shields.io/badge/HuggingFace-ahmad--777%2FMNIST--Simplest-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Space"/></a>
+    <a href="https://huggingface.com/ahmad-777"><img src="https://img.shields.io/badge/HuggingFace-ahmad--777%2FMNIST--Simplest-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Space"/></a>
     <a href="https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void"><img src="https://img.shields.io/badge/Itch.io-Cosmic%20Conquest-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Game"/></a>
   </p>
 
@@ -66,7 +66,7 @@
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | 📐 **Neural Network from Scratch** | C++, Python | Native forward/backward propagation & gradient descent without high-level ML frameworks[cite: 1]. |
-| 🧠 **[MNIST Digit Recognizer](https://huggingface.co/spaces/ahmad-777/MNIST-Simplest)** | PyTorch, FastAPI, Angular, Docker | Full-stack web application with CNN backend deployed via CI/CD pipeline[cite: 1]. |
+| 🧠 **[Simple MNIST Recognizer](https://huggingface.co/spaces/ahmad-777/MNIST-Simplest)** | PyTorch, Gradio | A deployed deep learning model[cite: 1]. |
 | 🏥 **MediCore Hospital Management** | C++, Raylib | Object-oriented institutional system built with modular graphics rendering. |
 | 🌌 **[Cosmic Conquest: Battle for the Void](https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void)** | Unity, C# | Sci-fi 2D game featuring deep lore and challenging mechanics[cite: 1]. |
 | 🕹️ **Underground Heist** | Unity, C# | Dystopian hyper-casual game featuring high-tech grappling mechanics[cite: 1]. |
