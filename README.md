@@ -67,7 +67,7 @@
 | :--- | :--- | :--- |
 | **[Neural Network from Scratch](https://github.com/ahmad777x86/Neural-Network-from-Scratch)** | C++, Python | Native forward/backward propagation & gradient descent without high-level ML frameworks. |
 | **[N Gram Model](https://github.com/ahmad777x86/N-Gram-Model)** | C++ | Low-level language model built from scratch with custom tokenization, sliding context windows, and probability calculations. |
-| **[Simple MNIST Recognizer](https://huggingface.co/spaces/ahmad-777/MNIST-Simplest)** | PyTorch, Gradio | A deployed deep learning model. |
+| **[ResNet Implmentation](https://huggingface.co/spaces/ahmad-777/ResNet-Implementation)** | PyTorch, Gradio | Implementation of resnet-18 with custom residual blocks. |
 | **[MediCore Hospital Management](https://github.com/ahmad777x86/MediCore-OOP-Project)** | C++, Raylib | Object-oriented institutional system built with modular graphics rendering. |
 | **[Cosmic Conquest: Battle for the Void](https://mahmad777.itch.io/cosmic-conquest-battle-for-the-void)** | Unity, C# | Sci-fi 2D game featuring deep lore and challenging mechanics. |
 | **Underground Heist** | Unity, C# | Dystopian hyper-casual game featuring high-tech grappling mechanics. |
